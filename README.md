@@ -22,10 +22,10 @@
 
 ## MAXWELL-MD Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/maxwellmd1/MAXWELL-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/maxwellmd1/MaxwellOp/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://maxwell-session-135.onrender.com/pair) 
  OR BY [`SCANNING QR CODE`](https://maxwell-session-135.onrender.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Maxwellmd1/MAXWELL-MD)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Maxwellmd1/MaxwellOp)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://wa.me/qr/MY2JIUSBX5FJD1) for more**
 9. **All Tutorials Are `COMING SOON`**
 
